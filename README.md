@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Guilherme Souza</h1>
-<h3 align="center">I'm a QA who always want to learn new issues and create new projects.</h3>
+<h1 align="center">Olá 👋, Eu sou o Guilherme</h1>
+<h3 align="center">Estou sempre em busca de novos desafios.</h3>
 
-- 🌱 I’m currently learning **Cypress, Javascript**
+- 🌱Atualmente estudando **Cypress, Javascript**
 
-- 💬 Ask me about **MySQL, C# and Quality Assurance**
+- 💬 Fique a vontade para me perguntar sobre **C# e QA**
+
+- 📫 Email **guilhermes.working@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-souza-5571b425a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-souza-5571b425a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
