@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Souza</h1>
 <h3 align="center">I'm a QA who always want to learn new issues and create new projects.</h3>
 
-- 🌱 I’m currently learning **Flask, PQSL**
+- 🌱 I’m currently learning **Cypress, Javascript**
 
 - 💬 Ask me about **MySQL, C# and Quality Assurance**
 
