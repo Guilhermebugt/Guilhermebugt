@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Guilherme</h1>
-<h3 align="center">Estou sempre em busca de novos desafios.</h3>
+<h3 align="center">Recém formado como Analista QA pela TripleTen, estou em busca de novos desafios, procurando um ambiente em que eu possa contribuir e me aprimorar.</h3>
 
 - 🌱Atualmente estudando **Cypress, Javascript**
 
